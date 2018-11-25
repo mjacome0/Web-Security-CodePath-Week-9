@@ -24,7 +24,7 @@ is changed to:
 
 ## A summary of the data collected: number of attacks, number of malware samples, etc.
 
-Currently there have been 5,527 attacks as of Novermber 25, 2018 3:46 PM
+Currently there have been 5,527 attacks as of Novermber 25, 2018 3:50 PM
 
 ## A summary of the data collected: number of attacks, number of malware samples, etc. 
 
